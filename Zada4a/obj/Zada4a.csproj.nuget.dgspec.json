@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/Zada4a.csproj": {}
+  },
+  "projects": {
+    "/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/Zada4a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/Zada4a.csproj",
+        "projectName": "Zada4a",
+        "projectPath": "/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/Zada4a.csproj",
+        "packagesPath": "/Users/deniskurkumeli/.nuget/packages/",
+        "outputPath": "/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/deniskurkumeli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
