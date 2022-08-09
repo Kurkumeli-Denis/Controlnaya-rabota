@@ -1,0 +1,15 @@
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.csproj.AssemblyReference.cache
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.AssemblyInfoInputs.cache
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.AssemblyInfo.cs
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.csproj.CoreCompileInputs.cache
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/bin/Debug/net6.0/Zada4a
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/bin/Debug/net6.0/Zada4a.deps.json
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/bin/Debug/net6.0/Zada4a.runtimeconfig.json
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/bin/Debug/net6.0/Zada4a.dll
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/bin/Debug/net6.0/Zada4a.pdb
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.dll
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/refint/Zada4a.dll
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.pdb
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/Zada4a.genruntimeconfig.cache
+/Users/deniskurkumeli/Desktop/C#/Controlnaya/Zada4a/obj/Debug/net6.0/ref/Zada4a.dll
