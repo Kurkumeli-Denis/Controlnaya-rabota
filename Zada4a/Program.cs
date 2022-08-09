@@ -1,5 +1,5 @@
 ﻿      string[] arr; 
-      int count; 
+      int count=0; 
       string stroka;
       string[] arr2; 
 
@@ -7,7 +7,7 @@
 
       Console.WriteLine("Введите строки, чтобы закончить нажмите Enter:");
 
-      count = 0; 
+      
       arr = new string[count]; 
 
       do
@@ -26,8 +26,9 @@
 
           
           for (int i = 0; i < arr2.Length - 1; i++)
+          {
             arr2[i] = arr[i];
-
+          }
           
           arr2[count - 1] = stroka;
 
